@@ -1,0 +1,1 @@
+# News Ticker OCR package

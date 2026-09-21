@@ -1,0 +1,10 @@
+venv/
+.venv/
+myenv/
+.myenv/
+__pycache__/
+*.pyc
+.streamlit/
+uploads/*
+output/tickers/*
+!.gitkeep
